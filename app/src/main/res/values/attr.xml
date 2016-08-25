@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="tab_icon" format="reference" />
+    <attr name="tab_color" format="color" />
+    <attr name="text" format="string" />
+    <attr name="text_size" format="dimension" />
+
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="tab_icon" />
+        <attr name="tab_color" />
+        <attr name="text" />
+        <attr name="text_size" />
+    </declare-styleable>
+</resources>

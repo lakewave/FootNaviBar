@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#EEE"
+    android:orientation="horizontal" >
+
+    <RadioButton
+        android:id="@+id/rb_find"
+        style="@style/FootRadioButtonStyle"
+        android:checked="true"
+        android:drawableTop="@drawable/tab_find"
+        android:text="@string/tab_find" />
+
+    <RadioButton
+        android:id="@+id/rb_chat"
+        style="@style/FootRadioButtonStyle"
+        android:drawableTop="@drawable/tab_chat"
+        android:text="@string/tab_chat" />
+
+    <RadioButton
+        android:id="@+id/rb_friends"
+        style="@style/FootRadioButtonStyle"
+        android:drawableTop="@drawable/tab_friends"
+        android:text="@string/tab_friends" />
+
+    <RadioButton
+        android:id="@+id/rb_me"
+        style="@style/FootRadioButtonStyle"
+        android:drawableTop="@drawable/tab_me"
+        android:text="@string/tab_me" />
+
+</RadioGroup>

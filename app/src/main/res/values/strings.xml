@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FootNaviBar</string>
+
+    <string name="tab_find">发  现</string>
+    <string name="tab_chat">聊  天</string>
+    <string name="tab_friends">好  友</string>
+    <string name="tab_me">自  己</string>
+</resources>

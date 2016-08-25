@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="google_red">#D62D20</color>
+    <color name="google_blue">#0057E7</color>
+    <color name="google_green">#008744</color>
+    <color name="google_yellow">#FFA700</color>
+
+    <color name="tab_text_checked_1">#008744</color>
+    <!--B04B87-->
+    <color name="tab_text_normal_1">#6C6C6C</color>
+    <!--6C6C6C-->
+</resources>
